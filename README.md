@@ -1,6 +1,7 @@
 # Mag_Injection_in_TBG
 
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://fernandopenaranda.github.io/Non_linear-optics_in_TBG.dev)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://fernandopenaranda.github.io/Mag_Injection_in_TBG.dev)
+[![DOI](https://zenodo.org/badge/1103319287.svg)](https://doi.org/10.5281/zenodo.17714402)
 
 For the sake of reproducibility, we show in this repo: the code, the data files, and the plotting functions used to generate the figures in our work: *Magnetic injection photocurrents in valley polarized states of twisted bilayer graphene* [arXiv:2501.09703](https://doi.org/10.48550/arXiv.2501.09703)
 
