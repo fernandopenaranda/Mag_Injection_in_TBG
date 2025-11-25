@@ -17,4 +17,5 @@ using Pkg
 Pkg.add("https://github.com/fernandopenaranda/Mag_Injection_in_TBG")
 ```
 
-
+### Funding
+F.P acknowledges support from a Juan de la Cierva Fellowship (Grant No. JDC2023-051274-I) funded by MICIU/AEI/10.13039/501100011033 and the ESF+.
